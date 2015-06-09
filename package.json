@@ -2,12 +2,12 @@
   "name": "leet-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A syntax theme that brings you back to the good ol' days",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/leet-syntax",
+  "repository": "https://github.com/benogle/leet-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"

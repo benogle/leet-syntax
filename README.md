@@ -1,5 +1,3 @@
 # leet-syntax theme
 
-A short description of your theme.
-
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![screen shot 2015-06-08 at 6 56 47 pm](https://cloud.githubusercontent.com/assets/69169/8049235/753889ea-0e11-11e5-9766-ce2ea779158b.png)
